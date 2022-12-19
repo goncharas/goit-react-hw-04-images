@@ -1,0 +1,8 @@
+/*
+ * Стили компонента ErrorImg
+ */
+.ErrorImg {
+    display: block;
+    margin: 20px auto;
+    padding: 0 20px;
+}
